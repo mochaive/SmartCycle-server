@@ -1,0 +1,40 @@
+item {
+  id: 1
+  name: 'pet'
+}
+item {
+  id: 2
+  name: 'carton'
+}
+item {
+  id: 3
+  name: 'heat_resistant_glass'
+}
+item {
+  id: 4
+  name: 'umbrella'
+}
+item {
+  id: 5
+  name: 'battery'
+}
+item {
+  id: 6
+  name: 'styrofoam'
+}
+item {
+  id: 7
+  name: 'tissue'
+}
+item {
+  id: 8
+  name: 'butan'
+}
+item {
+  id: 9
+  name: 'glass_bottle'
+}
+item {
+  id: 10
+  name: 'drug'
+}
